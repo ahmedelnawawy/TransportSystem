@@ -1,0 +1,21 @@
+﻿body {
+    background-image: url('LoginImage.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%;
+    font-family: 'Numans', sans-serif;
+}
+
+.container {
+    height: 100%;
+    align-content: center;
+}
+.card{
+height: 600px;
+margin:10% 30%;
+width: 400px;
+background-color: rgba(0,0,0,.5) !important;
+}
+.HeaderColor{
+    color:white;
+}
