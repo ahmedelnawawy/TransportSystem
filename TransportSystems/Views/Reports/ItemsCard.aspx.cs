@@ -16,6 +16,7 @@ namespace TransportSystems.Views.Reports
         ConnectDataBase.FillFunction fun1 = new ConnectDataBase.FillFunction();
         ConnectFunction fun = new ConnectFunction();
         InventoryReports.CardOfCategory coc = new AdsSysWeb.Models.LmsaEntitiesDB.InventoryReports.CardOfCategory();
+        string ahmed = "ahmed";
         protected void Page_Load(object sender, EventArgs e)
         {
             if (!IsPostBack)
